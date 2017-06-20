@@ -2,7 +2,7 @@
 
 Plugin for Chart.js that allows users to draw charts
 
-### [Drawable.Chart.js Documentation](http://zachpanz88.github.io/Drawable.Chart.js)
+### [Drawable.Chart.js Documentation](http://panz.io/Drawable.Chart.js/)
 
 ![Example Chart](img/example.gif "Example Chart")
 
